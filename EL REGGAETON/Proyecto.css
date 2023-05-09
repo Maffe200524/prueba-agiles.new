@@ -1,0 +1,39 @@
+
+
+div{
+    color:rgb(0, 0, 0);
+    font-weight: bold ; 
+    font-family:cursive 
+}
+h2 {
+    color:rgb(89, 17, 122);
+    font-weight: 400;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida mediana', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+    color: blue;
+    font-weight: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div{
+    color: rgb(240, 21, 21);
+    font-weight: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+strong {
+    color: rgb(11, 19, 11);
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+em {
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
